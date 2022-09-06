@@ -50,10 +50,6 @@ body {
     margin-left: 12px;
 }
 
-.social-media-icons a:hover {
-    color: #bc00dd;
-}
-
 .container .card-2 {
   position: absolute;
   left: -135px;
